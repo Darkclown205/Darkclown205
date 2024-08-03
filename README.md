@@ -13,6 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sahilnarula205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilnarula205" height="30" width="40" /></a>
+<a href="https://instagram.com/sahil2005007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil2005007" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sahil-narula-a53183293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil narula" height="30" width="40" /></a>
 </p>
 
