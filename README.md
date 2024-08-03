@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Narula</h1>
 <h3 align="center">I’m interested in Full Stack Development & AI</h3>
-
-<img align = "right" alt="coding" width="400" src="https://images.app.goo.gl/YxvnSTAdgn7WiVSNA" >
+<img align = "right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkclown205&label=Profile%20views&color=0e75b6&style=flat" alt="darkclown205" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkclown205" alt="darkclown205" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,Swift,Firebase**
 
