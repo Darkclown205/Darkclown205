@@ -2,6 +2,8 @@
 <h3 align="center">I’m interested in Full Stack Development & AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkclown205&label=Profile%20views&color=0e75b6&style=flat" alt="darkclown205" /> </p>
+<img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="coding gif" align="center" width="500"/>
+
 
 - 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,Swift,Firebase**
 
