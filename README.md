@@ -57,7 +57,7 @@
 </p>
 
 <!-- Wave effect SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/darkclown205/darkclown205/main/wave.svg" alt="wave effect">
-</p>
+<svg width="100%" height="150px" viewBox="0 0 500 150" preserveAspectRatio="none">
+  <path d="M0.00,49.98 C150.00,150.00 349.86,-49.98 500.00,49.98 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #f6f7ff;"></path>
+</svg>
 
