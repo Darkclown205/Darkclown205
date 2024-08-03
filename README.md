@@ -55,8 +55,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkclown205&" alt="darkclown205" />
 </p>
-
-<!-- Wave effect SVG -->
-<p>
-  <img src="https://raw.githubusercontent.com/DarkClown205/darkclown205/main/wave-2.svg" alt="wave" style="width: 100%; height: 150px; object-fit: cover;">
-</p>
