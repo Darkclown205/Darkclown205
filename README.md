@@ -4,7 +4,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=darkclown205&label=Profile%20views&color=0e75b6&style=flat" alt="darkclown205" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="coding gif" width="500"/>
 </p>
 
@@ -42,20 +42,4 @@
     <img src="https://github.com/Darkclown205/Darkclown205/blob/main/Data/python.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Darkclown205/Darkclown205/blob/main/Data/swift.svg" alt="swift" width="40" height="40"/></a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkclown205&show_icons=true&locale=en&layout=compact" alt="darkclown205" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkclown205&show_icons=true&locale=en" alt="darkclown205" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkclown205&" alt="darkclown205" />
-</p>
-<!-- Wave effect SVG -->
-<p>
-  <img src="https://github.com/Darkclown205/Darkclown205/blob/main/Data/wave-2.svg" alt="wave" style="width: 100%; height: 150px; object-fit: cover;">
 </p>
